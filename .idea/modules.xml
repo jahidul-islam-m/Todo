@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Todo.iml" filepath="$PROJECT_DIR$/.idea/modules/Todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todo/Todo.todo.iml" filepath="$PROJECT_DIR$/.idea/modules/todo/Todo.todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todo/Todo.todo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/todo/Todo.todo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todo/Todo.todo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/todo/Todo.todo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todo/Todo.todo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/todo/Todo.todo.unitTest.iml" />
+    </modules>
+  </component>
+</project>
